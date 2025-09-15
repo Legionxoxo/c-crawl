@@ -1,6 +1,6 @@
 # Common Crawl
 
-A powerful tool for extracting CDX-like records from Common Crawl data using AWS Athena. This project enables efficient querying and extraction of web crawl data for specific domains, providing deduplication, filtering, and export capabilities.
+Extract URLs and metadata from Common Crawl index for specified domains using AWS Athena. 
 
 ## 🌟 Features
 
@@ -234,3 +234,4 @@ The setup automatically creates a billing alert at $10 to monitor costs.
 -   [Common Crawl](https://commoncrawl.org/) for providing web crawl data
 
 ---
+
