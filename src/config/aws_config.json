@@ -1,0 +1,7 @@
+{
+  "bucket_name": "common-crawl-results",
+  "region": "us-east-1",
+  "results_location": "s3://common-crawl-results/results/",
+  "athena_results_location": "s3://common-crawl-results/athena-results/",
+  "domains_location": "s3://common-crawl-results/domains/"
+}
