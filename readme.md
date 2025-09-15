@@ -1,4 +1,4 @@
-# Common Crawl CDX Extractor
+# Common Crawl
 
 A powerful tool for extracting CDX-like records from Common Crawl data using AWS Athena. This project enables efficient querying and extraction of web crawl data for specific domains, providing deduplication, filtering, and export capabilities.
 
